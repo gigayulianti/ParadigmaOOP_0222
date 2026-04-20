@@ -5,4 +5,6 @@ class Mahasiswa{
 Public :
     int nim;
     string nama;
-   
+    float nilai;
+
+ 
